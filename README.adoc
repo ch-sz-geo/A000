@@ -25,13 +25,8 @@ Amanda Wetter <amanda.wetter@sz.ch>
 
 // Die Verwiese auf die Inhalte der Dokumentation sollen im README auf Github nicht angezeigt werden.
 ifndef::env-github[]
-include::{includedir}/refhb24_0_vorwort.adoc[]
+include::{includedir}/testdoc.adoc[]
 
-include::{includedir}/refhb24_1_grundprinzipien.adoc[]
-
-include::{includedir}/refhb24_2_beschreibungssprache.adoc[]
-
-include::{includedir}/refhb24_3_sequentieller_transfer.adoc[]
 endif::[]
 
 // Erklärung und Link auf Website
