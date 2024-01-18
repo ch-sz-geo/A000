@@ -27,6 +27,7 @@ Amanda Wetter <amanda.wetter@sz.ch>
 ifndef::env-github[]
 include::{includedir}/testdoc.adoc[]
 include::{includedir}/testdoc2.adoc[]
+include::{includedir}/testdoc3.adoc[]
 endif::[]
 
 // Erklärung und Link auf Website
