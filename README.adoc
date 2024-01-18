@@ -1,37 +1,10 @@
-ifndef::env-github[:toc: left]
-:toc-title: Inhalt
-:toclevels: 5
-:figure-caption: Figur
-:example-caption!:
-:table-caption: Tabelle
-:note-caption: Hinweis
-// zum Generieren eines PDF aus VS Code (HTML muss mit eingebetteten Bildern generiert werden, damit daraus ein korrektes PDF erstellt werden kann)
-:data-uri:
-:source-highlighter: highlight.js
-:sectnums:
-:sectnumlevels: 5
-:sectlinks:
-:sectanchors:
-:includedir: docs
+= Congratulations!
+:showtitle:
+:page-title: Jekyll AsciiDoc Quickstart
+:page-description: A forkable blog-ready Jekyll site using AsciiDoc
 
-= A000 Basisdaten
-Amanda Wetter <amanda.wetter@sz.ch>
-// Versionierung
-:revdate: {docdate}
-:revnumber: 0.1.3
-// Pdf output
-:title-page:
-:chapter-label: // deprecated
+You've successfully set up and deployed an Jekyll website powered by AsciiDoc using the https://github.com/asciidoctor/jekyll-asciidoc-quickstart[*Jekyll AsciiDoc Quickstart*] project. If everything is in order then changes to the AsciiDoc content will be automatically published to your `gh_pages` branch and hosted via Jekyll and Github.
 
-// Die Verwiese auf die Inhalte der Dokumentation sollen im README auf Github nicht angezeigt werden.
-ifndef::env-github[]
-include::{includedir}/testdoc.adoc[]
+== What do I do now?
 
-endif::[]
-
-// Erklärung und Link auf Website
-ifdef::env-github[]
-In diesem Repository wird die Online-Version des INTERLIS 2.4 Referenzhandbuches gepflegt. Die Quelldateien der einzelnen Haupt- und Unterkapitel befinden sich im Verzeichnis `docs`. Ergänzungen und Korrekturen bitte als Issue oder allenfalls PR erfassen.
-
-Die aktuelle Website ist unter https://geostandards-ch.github.io/doc_refhb24/ erreichbar.
-endif::[]
+Now that you've set up your website to run with AsciiDoc, you have a ton of options available to you.
