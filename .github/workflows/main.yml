@@ -29,12 +29,11 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
-        with:
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
           
       # Runs a single command using the runners shell
       - name: asciidoctor-ghpages
         uses: manoelcampos/asciidoctor-ghpages-action@v2
         with:
           pdf_build: false
-          asciidoctor_params: --attribute=nofooter
+          asciidoctor_params: --attribute=nofooter  
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
