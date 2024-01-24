@@ -14,19 +14,19 @@ wird als überlagernder Nutzungsplaninhalt (andere flächenbezogene Festlegungen
 dazugehörigen Dokumente (Plan und Sonderbauvorschriften) im PDF-Format über einen
 Dokumentlink mit der entsprechenden Geometrie verknüpft.
 
+=== Zonentypen
+[blue]*Todo Tabelle* +
 
-=== Ein weiteres Kapitel mit einer Tabelle
+*Ergänzende Information zur Definition des Zonentyps "Bereich rechtsgültiger Gestaltungsplan"* +
 
-[grid=none]
-[cols="1m,1m,1m,1m"]
-|===
-|*ABSTRACT* | *ACCORDING* | *AGGREGATES* | *AGGREGATION*
-|*ALL* | *AND* | *ANY* | *ANYCLASS*
-|*ANYSTRUCTURE* | *ARCS* | *AREA* | *AS*
-|*ASSOCIATION* | *AT* | *ATTRIBUTE* | _ATTRIBUTES_
-|*BAG* | *BASE* | *BASED* | *BASKET*
-|*BINARY* | *BLACKBOX* | _BLANK_ | *BOOLEAN*
-|*BY* | *CARDINALITY* | *CHARSET* | *CIRCULAR*
-|*CLASS* | *CLOCKWISE* | _CODE_ | *CONSTRAINT*
-|*CONSTRAINTS* | *CONTEXT* | _CONTINUE_ | *CONTINUOUS*
-|_CONTOUR_ | *CONTRACTED* | *COORD* | _COORD2_
+Dokumente und Rechtssätze können nur mit Zonentypen und nicht mit einzelnen Geometrien
+verknüpft werden. Deshalb braucht es für jeden rechtsgültigen Gestaltungsplan einen eigenen
+Zonentyp. Der Code für diesen setzt sich zusammen aus dem kantonalen Typ "61.1" und einer
+eindeutigen, laufenden Nummer innerhalb der Gemeinde (z. B. "1", der Code lautet dann z. B.
+61.1.1). + 
+
+Die Abkürzung ist stets "rGP". Die Bezeichnung soll anstelle von "Bereich rechtsgültiger
+Gestaltungsplan" den Namen des Gestaltungsplans enthalten, vgl. Beispiele in nachfolgender Liste. +
+
+Beispiele für die Definition von Bereichen rechtsgültiger Gestaltungspläne:
+[blue]*Todo Tabelle* +
