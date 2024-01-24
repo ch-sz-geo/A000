@@ -19,7 +19,8 @@ ifndef::env-github[]
 include::{includedir}/headerSZ.adoc[]
 endif::[]
 
-= Dokumentation
+= Main Title: Sondernutzungsplanung
+= Main Title: Main Title Continued: kommunal V1
 Amanda Wetter <amanda.wetter@sz.ch>
 // Versionierung
 :revdate: {docdate}
