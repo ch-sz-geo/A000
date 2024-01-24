@@ -1,5 +1,5 @@
 [grid=none, frame=none]
-[width="30%,30%,30%"]
+[width="100%"]
 |=======
 |Umweltdepartement | | 
 |Amt für Geoinformation | Bahnhofstrasse 16 | Logo
