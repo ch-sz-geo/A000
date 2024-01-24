@@ -1,6 +1,6 @@
 === Impressum
 
-[width="20%"]
+[width="autowidth"]
 |=======
 |Erstelldatum |  24.01.2024
 |Letzte Änderung | 24.01.2024
@@ -15,7 +15,7 @@ gültig
 |=======
 
 ==== Historie
-[width="20%"]
+[width="autowidth"]
 |=======
 | *Version* | *Datum* | *Autor* | *Bemerkung*
 | 1.0 | 23.08.2023 | kep | erster Entwurf und Veröffentlichung
@@ -23,9 +23,18 @@ gültig
 |=======
 
 ==== Koreferat
-[width="20%"]
+[width="autowidth"]
 |=======
 | *Version* | *Datum* | *Koreferent* | *Prüfstelle*
 | 1.0 | 23.08.2023 | LL | ARE
 |=======
 
+==== Referenzierte Dokumente
+[width="autowidth"]
+|=======
+| *Nr.* | *Titel* | *Autor(en)* | *Version*
+| [01] | Kantonales Geoinformationsgesetz (KGeoiG) (SRSZ 214.110) | Kt. SZ | 24.06.2010
+| [02] | Verordnung zum kantonalen Geoinformationsgesetz (KGeoiV) (SRSZ 214.111) | Kt. SZ | 18.12.2012
+| [03] | Minimale Geodatenmodelle Bereich Nutzungsplanung; Modelldokumentation | ARE | 1.2, 22.09.2021
+| [04] | IRAP-Empfehlung 6. Farben und Signaturen. HSR Hochschule für Technik Rapperswil (heute: OST – Ostschweizer Fachhochschule) | HSR Rapperswil (heute: OST) | 17.12.2012
+|=======
