@@ -1,0 +1,31 @@
+=== Impressum
+
+[width="20%"]
+|=======
+|Erstelldatum |  24.01.2024
+|Letzte Änderung | 24.01.2024
+| Seitenzahl gesamt inkl. Deckblatt und Inhaltsverzeichnis | x
+| ID nach kGeoiV | --- 
+| Themen-Nummer | A202
+| Beteiligte | Kuno Epper (kep), AGI + 
+Laura Lacher (LL), ARE
+| Status | Entwurf + 
+bereit für Vernehmlassung +
+gültig
+|=======
+
+==== Historie
+[width="20%"]
+|=======
+| *Version* | *Datum* | *Autor* | *Bemerkung*
+| 1.0 | 23.08.2023 | kep | erster Entwurf und Veröffentlichung
+| 1.1 | 28.08.2023 | kep | Abschluss und Veröffentlichung
+|=======
+
+==== Koreferat
+[width="20%"]
+|=======
+| *Version* | *Datum* | *Koreferent* | *Prüfstelle*
+| 1.0 | 23.08.2023 | LL | ARE
+|=======
+
