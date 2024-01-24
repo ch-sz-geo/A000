@@ -21,6 +21,7 @@ endif::[]
 
 [separator=::]
 = Main Title:: Sondernutzungsplanung kommunal V1
+:title-separator: ::
 Amanda Wetter <amanda.wetter@sz.ch>
 // Versionierung
 :revdate: {docdate}
