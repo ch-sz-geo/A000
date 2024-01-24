@@ -1,9 +1,8 @@
-Umweltdepartement
-Amt für Geoinformation
-
-[opts=notitle]
-= Sondernutzungsplanung kommunal V1
-==
-=== A202
-=== Modelldokumentation
-
+[width="15%"]
+|=======
+|Umweltdepartement | | 
+|Amt für Geoinformation | Bahnhofstrasse 16 | Logo
+| | Postfach 1213 |
+| | 6431 Schwyz | 
+| | Telefon 041 819 25 41 |
+|=======
