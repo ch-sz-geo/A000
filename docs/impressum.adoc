@@ -1,6 +1,5 @@
 === Impressum
 
-[grid=none]
 [width="autowidth"]
 |=======
 |Erstelldatum |  24.01.2024
@@ -16,7 +15,6 @@ gültig
 |=======
 
 ==== Historie
-[grid=none]
 [width="autowidth"]
 |=======
 | *Version* | *Datum* | *Autor* | *Bemerkung*
@@ -25,7 +23,6 @@ gültig
 |=======
 
 ==== Koreferat
-[grid=none]
 [width="autowidth"]
 |=======
 | *Version* | *Datum* | *Koreferent* | *Prüfstelle*
@@ -33,7 +30,6 @@ gültig
 |=======
 
 ==== Referenzierte Dokumente
-[grid=none]
 [width="autowidth"]
 |=======
 | *Nr.* | *Titel* | *Autor(en)* | *Version*
