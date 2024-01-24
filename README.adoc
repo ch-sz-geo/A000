@@ -22,6 +22,9 @@ Amanda Wetter <amanda.wetter@sz.ch>
 // Pdf output
 :title-page:
 :chapter-label: // deprecated
+ifndef::env-github[]
+include::{includedir}/headerSZ.adoc[]
+endif::[]
 
 // Die Verwiese auf die Inhalte der Dokumentation sollen im README auf Github nicht angezeigt werden.
 ifndef::env-github[]
