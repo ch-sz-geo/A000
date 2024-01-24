@@ -30,3 +30,4 @@ Der Geobasisdatensatz ist Bestandteil des ÖREB-Katasters. +
 Diese Dokumentation richtet sich an Behörden und Fachleute des Kantons und der Gemeinden sowie
 an private Planungsbüros und GIS-Dienstleister, welche sich mit der Bearbeitung von Geobasisdaten
 zu Gestaltungsplänen befassen. +
+
