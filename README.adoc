@@ -31,8 +31,8 @@ Amanda Wetter <amanda.wetter@sz.ch>
 // Die Verwiese auf die Inhalte der Dokumentation sollen im README auf Github nicht angezeigt werden.
 ifndef::env-github[]
 include::{includedir}/impressum.adoc[]
-include::{includedir}/testdoc2.adoc[]
-include::{includedir}/testdoc3.adoc[]
+include::{includedir}/allgemeines.adoc[]
+include::{includedir}/modellbeschreibung.adoc[]
 endif::[]
 
 // Erklärung und Link auf Website
