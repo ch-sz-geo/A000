@@ -1,3 +1,20 @@
+== Modellbeschreibung
+
+Gestaltungspläne gemäss Art. 24 PBG sind Teil der Nutzungsplanung und damit wie der Zonenplan
+und das Baureglement eigentümerverbindlich. Der Gestaltungsplan verfeinert die Vorgaben der
+(Rahmen-)Nutzungsplanung mit zusätzlichen Aussagen über die Nutzung, Erschliessung, Bebauung
+und Ausstattung. +
+
+Die Sonderbestimmungen der im ÖREB-Kataster dargestellten Gestaltungspläne werden in der Regel
+auf einem oder mehreren (Detail-)Plänen sowie in Vorschriften festgehalten. Im Gegensatz zum
+Zonenplan werden die Inhalte der Gestaltungspläne nicht vollständig geometrisch erfasst, sondern –
+wie im Geodatenmodell Bereich Nutzungsplanung des Bundes bereits beschrieben – nur der
+Planungsperimeter. Die weiteren Planinhalte sind über die im ÖREB-Kataster hinterlegten PDF-Dateien des jeweiligen Gestaltungsplanes zugänglich. Der Perimeter der einzelnen Gestaltungspläne
+wird als überlagernder Nutzungsplaninhalt (andere flächenbezogene Festlegungen) erfasst und die
+dazugehörigen Dokumente (Plan und Sonderbauvorschriften) im PDF-Format über einen
+Dokumentlink mit der entsprechenden Geometrie verknüpft.
+
+
 === Ein weiteres Kapitel mit einer Tabelle
 
 [grid=none]
