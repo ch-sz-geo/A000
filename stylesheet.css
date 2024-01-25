@@ -50,12 +50,16 @@ a {
 }
 
 h1 {
-	font-size: 1.4em;
-	background-color: black;
+	font-size: xx-large;
 	padding: .6em;
 	margin: 0;
-	color: white;
 }
+
+#subtitle-header {
+	font-size: x-large;
+	padding: .6em;
+	margin: 0;	
+}	
 
 #toc a:hover {
 	background-color: maroon;
