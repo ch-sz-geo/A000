@@ -13,6 +13,7 @@ ifndef::env-github[:toc: left]
 :sectlinks:
 :sectanchors:
 :includedir: docs
+:stylesheet: stylesheet.css
 
 // Todo Header Styling und Environment ändern auf Doc. Header auf der Webseite muss auf andere Weise integriert werden
 ifndef::env-github[]
