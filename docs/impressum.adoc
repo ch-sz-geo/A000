@@ -15,6 +15,7 @@ bereit für Vernehmlassung +
 gültig
 |=======
 
+[discrete]
 ==== Historie
 [width="autowidth"]
 |=======
@@ -23,6 +24,7 @@ gültig
 | 1.1 | 28.08.2023 | kep | Abschluss und Veröffentlichung
 |=======
 
+[discrete]
 ==== Koreferat
 [width="autowidth"]
 |=======
@@ -30,6 +32,7 @@ gültig
 | 1.0 | 23.08.2023 | LL | ARE
 |=======
 
+[discrete]
 ==== Referenzierte Dokumente
 [width="autowidth"]
 |=======
