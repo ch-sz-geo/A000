@@ -1,3 +1,4 @@
+[discrete]
 === Impressum
 
 [width="autowidth"]
