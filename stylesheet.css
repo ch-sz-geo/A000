@@ -102,7 +102,7 @@ th {
 	font-size: medium;
 }
 
-#header-table {
+.header-table {
 	border: none;
 	background-color: blue;
 }
