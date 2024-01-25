@@ -46,5 +46,5 @@ In diesem Repository ist der Versuch gestartet worden, eine Page aus den Files z
 
 Die aktuelle Website ist unter https://ch-sz-geo.github.io/A000/ erreichbar.
 
-Hier erhalte ich das Pdf https://raw.githubusercontent.com/ch-sz-geo.github.io/A000/gh-pages/ebook.pdf
+Hier erhalte ich das Pdf https://raw.github.com/ch-sz-geo.github.io/A000/gh-pages/ebook.pdf
 endif::[]
