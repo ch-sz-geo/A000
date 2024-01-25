@@ -1,7 +1,7 @@
 [grid=none, frame=none]
 [width="100%"]
 |=======
-|Umweltdepartement | | 
+|### Umweltdepartement | | 
 |Amt für Geoinformation | Bahnhofstrasse 16 | Logo
 | | Postfach 1213 |
 | | 6431 Schwyz | 
