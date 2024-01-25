@@ -101,11 +101,11 @@ th {
 	font-size: medium;
 }
 
-.header-table {
+.header-table-sz {
 	border-color: white;
 	width: auto;
 }
 
-.header-table > td, th {
+.header-table-sz > td, th {
 	border-color: pink;
 }	
