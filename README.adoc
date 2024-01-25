@@ -1,6 +1,22 @@
+ifndef::env-github[:toc: left]
+:toc-title: Inhalt
+:toclevels: 5
+:figure-caption: Abbildung
+:example-caption!:
+:table-caption: Tabelle
+:note-caption: Hinweis
+// zum Generieren eines PDF aus VS Code (HTML muss mit eingebetteten Bildern generiert werden, damit daraus ein korrektes PDF erstellt werden kann)
+:data-uri:
+:source-highlighter: highlight.js
+:sectnums:
+:sectnumlevels: 5
+:sectlinks:
+:sectanchors:
+:includedir: docs
+
 // Todo Header Styling und Environment ändern auf Doc. Header auf der Webseite muss auf andere Weise integriert werden
 ifndef::env-github[]
-include::docs/headerSZ.adoc[]
+include::{includedir}/headerSZ.adoc[]
 endif::[]
 
 = Sondernutzungsplanung kommunal V1
@@ -10,28 +26,11 @@ Amanda Wetter <amanda.wetter@sz.ch>
 :revnumber: 0.1.3
 // Pdf output
 :title-page:
-
-
-include::{includedir}/impressum.adoc[]
-
-ifndef::env-github[:toc: left]
-:toc-title: Inhalt
-:toclevels: 5
-:figure-caption: Abbildung
-:example-caption!:
-:table-caption: Tabelle
-:note-caption: Hinweis
-// zum Generieren eines PDF aus VS Code (HTML muss mit eingebetteten Bildern generiert werden, damit daraus ein korrektes PDF erstellt werden kann)
-:data-uri: 
-:source-highlighter: highlight.js
-:sectnums:
-:sectnumlevels: 5
-:sectlinks:
-:sectanchors:
-:includedir: docs
+:chapter-label: // deprecated
 
 // Die Verwiese auf die Inhalte der Dokumentation sollen im README auf Github nicht angezeigt werden.
 ifndef::env-github[]
+include::{includedir}/impressum.adoc[]
 include::{includedir}/allgemeines.adoc[]
 include::{includedir}/modellbeschreibung.adoc[]
 endif::[]
