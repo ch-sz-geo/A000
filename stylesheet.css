@@ -102,6 +102,7 @@ th {
 	font-size: medium;
 }
 
-#header-table > td, th{
+#header-table {
 	border: none;
+	background-color: blue;
 }
