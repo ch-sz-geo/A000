@@ -102,4 +102,6 @@ th {
 	font-size: medium;
 }
 
+#header-table > td, th{
+	border: none;
 }
