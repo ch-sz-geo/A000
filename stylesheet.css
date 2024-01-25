@@ -103,6 +103,10 @@ th {
 }
 
 .header-table {
-	border: none;
-	background-color: blue;
+	border: white;
+	width: auto;
 }
+
+.header-table > td, th {
+	border: pink;
+}	
