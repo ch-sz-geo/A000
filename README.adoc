@@ -16,7 +16,8 @@ ifndef::env-github[:toc: left]
 // :stylesheet: stylesheet.css
 
 // Todo Header Styling und Environment ändern auf Doc. Header auf der Webseite muss auf andere Weise integriert werden
-ifndef::env-github[]
+
+ifdef::backend-docbook5[]
 include::{includedir}/headerSZ.adoc[]
 endif::[]
 
@@ -27,11 +28,8 @@ Amanda Wetter <amanda.wetter@sz.ch>
 :revnumber: 0.1.3
 // Pdf output
 :title-page:
-:chapter-label: // deprecated
 
-[#subtitle-header]
 A202 +
-[#subtitle-header]
 Modelldokumentation
 
 // Die Verwiese auf die Inhalte der Dokumentation sollen im README auf Github nicht angezeigt werden.
