@@ -18,6 +18,7 @@ ifndef::env-github[:toc: left]
 // Todo Header Styling und Environment ändern auf Doc. Header auf der Webseite muss auf andere Weise integriert werden
 
 = Sondernutzungsplanung kommunal V1
+[.untertitel]*A202* + 
 Amanda Wetter <amanda.wetter@sz.ch>
 // Versionierung
 :revdate: {docdate}
@@ -25,9 +26,8 @@ Amanda Wetter <amanda.wetter@sz.ch>
 // Pdf output
 :title-page:
 
-[.untertitel]
-A202 +
-Modelldokumentation
+[.untertitel]*A202* + 
+Modelldokumentation* 
 
 ifdef::backend-docbook5[]
 include::{includedir}/headerSZ.adoc[]
