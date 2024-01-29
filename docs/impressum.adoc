@@ -48,4 +48,6 @@ Laura Lacher (LL), ARE
 | [04] | IRAP-Empfehlung 6. Farben und Signaturen. HSR Hochschule für Technik Rapperswil (heute: OST – Ostschweizer Fachhochschule) | HSR Rapperswil (heute: OST) | 17.12.2012
 |=======
 
+ifdef::docbook5[]
 <<<
+endif::[]
