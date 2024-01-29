@@ -3,6 +3,8 @@ https://ch-sz-geo.github.io/A000/data/TestdocBliblablo.pdf[Hier gehts zum Pdf ab
 https://ch-sz-geo.github.io/A000/data/testIli.ili[Hier gehts zum Hier habe ich eine .ili-Datei, window=_blank] +
 https://ch-sz-geo.github.io/A000/ebook.pdf[Hier gehts zum in einem anderen pdf-generierten File, window=_blank] +
 
+
+
 [discrete]
 === Impressum
 
@@ -15,9 +17,9 @@ https://ch-sz-geo.github.io/A000/ebook.pdf[Hier gehts zum in einem anderen pdf-g
 | Themen-Nummer | A202
 | Beteiligte | Kuno Epper (kep), AGI + 
 Laura Lacher (LL), ARE
-| Status | * [ ] Entwurf 
-* [ ] bereit für Vernehmlassung
-* [ x ] gültig
+| Status a| - [ ] Entwurf 
+- [ ] bereit für Vernehmlassung
+- [x] gültig
 |=======
 
 [discrete]
