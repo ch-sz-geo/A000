@@ -31,6 +31,6 @@ Diese Dokumentation richtet sich an Behörden und Fachleute des Kantons und der 
 an private Planungsbüros und GIS-Dienstleister, welche sich mit der Bearbeitung von Geobasisdaten
 zu Gestaltungsplänen befassen. +
 
-ifdef::docbook5[]
+ifdef::backend-pdf[]
 <<<
 endif::[]

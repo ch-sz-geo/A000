@@ -15,9 +15,9 @@ https://ch-sz-geo.github.io/A000/ebook.pdf[Hier gehts zum in einem anderen pdf-g
 | Themen-Nummer | A202
 | Beteiligte | Kuno Epper (kep), AGI + 
 Laura Lacher (LL), ARE
-| Status | [ ] Entwurf +
-[ ] bereit für Vernehmlassung +
-[ ] gültig
+| Status | * [ ] Entwurf 
+* [ ] bereit für Vernehmlassung
+* [ x ] gültig
 |=======
 
 [discrete]
@@ -48,6 +48,6 @@ Laura Lacher (LL), ARE
 | [04] | IRAP-Empfehlung 6. Farben und Signaturen. HSR Hochschule für Technik Rapperswil (heute: OST – Ostschweizer Fachhochschule) | HSR Rapperswil (heute: OST) | 17.12.2012
 |=======
 
-ifdef::docbook5[]
+ifdef::backend-pdf[]
 <<<
 endif::[]
