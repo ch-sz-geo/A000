@@ -100,12 +100,3 @@ th {
 #amt-title {
 	font-size: medium;
 }
-
-.header-table-sz {
-	border-color: white;
-	width: auto;
-}
-
-.header-table-sz > td, th {
-	border-color: pink;
-}	
