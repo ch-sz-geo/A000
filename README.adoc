@@ -16,6 +16,9 @@ ifndef::env-github[:toc: left]
 :stylesheet: stylesheet.css
 
 // Todo Header Styling und Environment ändern auf Doc. Header auf der Webseite muss auf andere Weise integriert werden
+ifdef::backend-pdf[]
+include::{includedir}/headerSZ.adoc[]
+endif::[]
 
 = Sondernutzungsplanung kommunal V1
 Amanda Wetter <amanda.wetter@sz.ch>
@@ -27,10 +30,6 @@ Amanda Wetter <amanda.wetter@sz.ch>
 
 [.untertitel]*A202* + 
 [.untertitel]*Modelldokumentation* 
-
-ifdef::docbook5[]
-include::{includedir}/headerSZ.adoc[]
-endif::[]
 
 // Die Verwiese auf die Inhalte der Dokumentation sollen im README auf Github nicht angezeigt werden.
 ifndef::env-github[]
