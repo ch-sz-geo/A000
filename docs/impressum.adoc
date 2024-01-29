@@ -1,5 +1,6 @@
 
-https://ch-sz-geo.github.io/A000/data/TestdocBliblablo.pdf
+https://ch-sz-geo.github.io/A000/data/TestdocBliblablo.pdf[Hier gehts zum Pdf, window=_blank]
+https://ch-sz-geo.github.io/A000/data/testIli.ili[Hier gehts zum Hier habe ich eine .ili-Datei, window=_blank]
 
 [discrete]
 === Impressum
