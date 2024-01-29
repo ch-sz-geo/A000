@@ -16,9 +16,9 @@ ifndef::env-github[:toc: left]
 // :stylesheet: stylesheet.css
 
 // Todo Header Styling und Environment ändern auf Doc. Header auf der Webseite muss auf andere Weise integriert werden
-ifndef::env-github[]
-include::{includedir}/headerSZ.adoc[]
-endif::[]
+// ifndef::env-github[]
+// include::{includedir}/headerSZ.adoc[]
+// endif::[]
 
 = Sondernutzungsplanung kommunal V1
 Amanda Wetter <amanda.wetter@sz.ch>
