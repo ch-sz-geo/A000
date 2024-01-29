@@ -1,4 +1,3 @@
-[%notitle]
 [grid=none, frame=none, width="100%"]
 |=======
 |Umweltdepartement | .5+<.>m|image:{includedir}/img/logo_kt_sz.JPG[]

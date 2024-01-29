@@ -6,7 +6,7 @@ https://ch-sz-geo.github.io/A000/ebook.pdf[Hier gehts zum in einem anderen Branc
 [discrete]
 === Impressum
 
-[width="autowidth"]
+[cols="1, 3"]
 |=======
 |Erstelldatum |  24.01.2024
 |Letzte Änderung | 24.01.2024
@@ -15,14 +15,14 @@ https://ch-sz-geo.github.io/A000/ebook.pdf[Hier gehts zum in einem anderen Branc
 | Themen-Nummer | A202
 | Beteiligte | Kuno Epper (kep), AGI + 
 Laura Lacher (LL), ARE
-| Status | Entwurf + 
-bereit für Vernehmlassung +
-gültig
+| Status | [ ] Entwurf +
+[ ] bereit für Vernehmlassung +
+[ ] gültig
 |=======
 
 [discrete]
 ==== Historie
-[width="autowidth"]
+[cols="10%, 10%, 10%, 70%"]
 |=======
 | *Version* | *Datum* | *Autor* | *Bemerkung*
 | 1.0 | 23.08.2023 | kep | erster Entwurf und Veröffentlichung
@@ -31,7 +31,7 @@ gültig
 
 [discrete]
 ==== Koreferat
-[width="autowidth"]
+[cols="10%, 10%, 10%, 70%"]
 |=======
 | *Version* | *Datum* | *Koreferent* | *Prüfstelle*
 | 1.0 | 23.08.2023 | LL | ARE
@@ -39,7 +39,7 @@ gültig
 
 [discrete]
 ==== Referenzierte Dokumente
-[width="autowidth"]
+[cols="10%, 70%, 10%, 10%"]
 |=======
 | *Nr.* | *Titel* | *Autor(en)* | *Version*
 | [01] | Kantonales Geoinformationsgesetz (KGeoiG) (SRSZ 214.110) | Kt. SZ | 24.06.2010
