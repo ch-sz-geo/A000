@@ -8,19 +8,11 @@ body {
 	margin: 0;
 }
 
-.article {
-	display: grid;
-	grid-template-areas: "nav content";
-	grid-template-columns: 20em 1fr;
-	grid-template-rows: auto;
-}
-
 a {
 	text-decoration: none;
 }
 
 h1 {
-	font-size: xx-large;
 	padding: .6em;
 	margin: 0;
 }
