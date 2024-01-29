@@ -19,37 +19,6 @@ a {
 	text-decoration: none;
 }
 
-#header {
-	grid-area: nav;
-}
-
-#toc {
-	padding: 1em;
-}
-
-#toc a {
-	color: white;
-}
-
-#toc li {
-	padding-bottom: .6em;
-}
-
-#toc ul {
-	list-style: none;
-	margin: 0;
-	padding: 0;
-}
-
-#toc ul ul {
-	padding-left: 1.4em;
-}
-
-#toctitle {
-	font-weight: bold;
-	color: white;
-}
-
 h1 {
 	font-size: xx-large;
 	padding: .6em;
@@ -61,10 +30,6 @@ h1 {
 	padding: .6em;
 	margin: 0;	
 }	
-
-#toc a:hover {
-	background-color: maroon;
-}
 
 #content {
 	background-color: white;
