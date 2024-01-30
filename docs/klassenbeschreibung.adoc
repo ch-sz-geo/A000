@@ -9,13 +9,17 @@ Die Klasse +Katalogeintrag+ enthält die allgemeinen, für alle Kataloge gemeins
 
 Allgemeingültige Attributbeschreibungen sind auf der Klasse +Katalogeintrag+ aufgeführt. Detailliertere Angaben zu den Attributen sind bei den jeweiligen Klassen zu finden.
 
-[cols="10%, 60%, 10%, 10%, 10%"]
-|=======
-5+h| Allgemeines
-| Vererbung 4+| Die Attribute dieser Klasse werden vererbt.
-| Objektkennung 4+| Objekte dieser Klasse weisen eine eineindeutige, über die Zeit stabile Objektidentifikation (OID) vom Typ UUID auf. Es sind die Regeln gemäss INTERLIS-Referenzhandbuch zu beachten
-h| Attribute h| Anzahl h| Typ h| Beschreibung h|Freigabe
+[cols="10%, 90%"]
+|======
+2+h| Allgemeines
+| Vererbung | Die Attribute dieser Klasse werden vererbt.
+| Objektkennung | Objekte dieser Klasse weisen eine eineindeutige, über die Zeit stabile Objektidentifikation (OID) vom Typ UUID auf. Es sind die Regeln gemäss INTERLIS-Referenzhandbuch zu beachten
+|======
 
+
+[%header, cols="10%, 10%, 10%, 60%, 10%", format=csv, separator=;]
+|=======
+include::table/klasse_katalogeintrag.csv[]
 |=======
 
 ifdef::backend-pdf[]
