@@ -17,7 +17,7 @@ Dokumentlink mit der entsprechenden Geometrie verknüpft.
 === Zonentypen
 [cols="1,1,3,5"]
 |=======
-|Code |  Abkürzung | Bezeichnung | Beschreibung
+h|Code h| Abkürzung h| Bezeichnung h| Beschreibung
 3+| *6 andere flächenbezogene Festlegungen* |
 | 61 | | Bereiche rechtsgültiger Sondernutzungspläne | Bereiche rechtsgültiger Sondernutzungspläne umfassen Gebiete mit Sonderbauvorschriften. Sie ergänzen, überlagern oder verändern Festlegungen des Rahmennutzungsplanes.
 | 61.1 | rGP | _Bereich rechtsgültiger Gestaltungsplan_ + 
