@@ -17,3 +17,7 @@ Allgemeingültige Attributbeschreibungen sind auf der Klasse +Katalogeintrag+ au
 h| Attribute h| Anzahl h| Typ h| Beschreibung h|Freigabe
 
 |=======
+
+ifdef::backend-pdf[]
+<<<
+endif::[]

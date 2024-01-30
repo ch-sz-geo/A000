@@ -36,6 +36,8 @@ ifndef::env-github[]
 include::{includedir}/impressum.adoc[]
 include::{includedir}/allgemeines.adoc[]
 include::{includedir}/modellbeschreibung.adoc[]
+include::{includedir}/diagramme.adoc[]
+include::{includedir}/klassenbeschreibung.adoc[]
 endif::[]
 
 // Erklärung und Link auf Website
