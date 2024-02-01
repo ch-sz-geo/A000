@@ -13,7 +13,8 @@ ifndef::env-github[:toc: left]
 :sectlinks:
 :sectanchors:
 :includedir: docs
-:stylesheet: stylesheet.css
+:stylesheet: themes/stylesheet.css
+:pdf-theme: themes/pdf-theme.yml
 
 // Todo Header Styling und Environment ändern auf Doc. Header auf der Webseite muss auf andere Weise integriert werden
 ifdef::backend-pdf[]
