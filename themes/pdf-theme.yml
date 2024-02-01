@@ -10,5 +10,10 @@ font:
       light: TradeGothic-Light.ttf
 
 base:
+  font-family: Trade Gothic 
+  font-color: #0033cc
+
+heading:
   font-family: Trade Gothic
+  font-style: bold
   font-color: #0033cc
