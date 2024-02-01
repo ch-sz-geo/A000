@@ -4,9 +4,9 @@ font:
   catalog:
     merge: false
     Trade Gothic:
-      normal: tradegothic-normal.ttf
-      bold: tradegothic-bold.ttf
-      light: tradegothic-light.ttf
+      normal: ./tradegothic-normal.ttf
+      bold: ./tradegothic-bold.ttf
+      light: ./tradegothic-light.ttf
 
 base:
   font-family: Trade Gothic 
