@@ -5,9 +5,9 @@ font:
   catalog:
     merge: false
     Trade Gothic:
-      normal: GEM_FONTS_DIR/TradeGothic.ttf
-      bold: GEM_FONTS_DIR/TradeGothic-BoldCondTwenty.ttf
-      light: GEM_FONTS_DIR/TradeGothic-Light.ttf
+      normal: TradeGothic.ttf
+      bold: TradeGothic-BoldCondTwenty.ttf
+      light: TradeGothic-Light.ttf
 
 base:
   font-family: Trade Gothic
