@@ -1,3 +1,12 @@
 extends: base
+
+
+font:
+  catalog:
+    Trade Gothic:
+      normal: TradeGothic.ttf
+      bold: TradeGothic-BoldCondTwenty.ttf
+      light: TradeGothic-Light.ttf
+
 base:
-  font-family: Times-Roman
+  font-family: Trade Gothic

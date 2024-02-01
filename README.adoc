@@ -1,4 +1,5 @@
 ifndef::env-github[:toc: left]
+:doc-type: book
 :toc-title: Inhalt
 :toclevels: 5
 :figure-caption: Abbildung
@@ -15,8 +16,7 @@ ifndef::env-github[:toc: left]
 :includedir: docs
 :stylesheet: themes/stylesheet.css
 :pdf-theme: themes/pdf-theme.yml
-:doc-type: book
-:preface-title: Preface
+
 
 // Todo Header Styling und Environment ändern auf Doc. Header auf der Webseite muss auf andere Weise integriert werden
 ifdef::backend-pdf[]
@@ -31,7 +31,6 @@ Amanda Wetter <amanda.wetter@sz.ch>
 // Pdf output
 :title-page:
 
-== Preface
 [.untertitel]*A202* + 
 [.untertitel]*Modelldokumentation* 
 
