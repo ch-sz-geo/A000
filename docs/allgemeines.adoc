@@ -6,11 +6,11 @@ erfolgte die vollständige Inkraftsetzung des kantonalen Geoinformationsgesetzes
 zum Ziel, verbindliche Vorgaben für die Erfassung, Modellierung und den Austausch von Geodaten
 festzulegen. +
 
-[.green]#Am 1. Januar 2013 trat die kantonale Verordnung über Geoinformation (KGeoiV) in Kraft [02]. Sie
+Am 1. Januar 2013 trat die kantonale Verordnung über Geoinformation (KGeoiV) in Kraft [02]. Sie
 präzisiert das KGeoiG in fachlicher sowie technischer Hinsicht und führt im Anhang 1 „Katalog der
 Geobasisdaten des Bundesrechts mit Zuständigkeit beim Kanton“ und im Anhang 2 „Katalog der
 Geobasisdaten des kantonalen Rechts“. Darin werden die Fachstellen definiert, welche für die
-Ausarbeitung eines Geodatenmodells zuständig sind.#
+Ausarbeitung eines Geodatenmodells zuständig sind.
 
 
 ===  Zweck des Dokuments
