@@ -1,8 +1,8 @@
 extends: base
 base:
-  font-color: #009933
-  font-family: Vendana
-  font-size: 12
+  font-color: #0000ff
+  font-family: Times-Roman
+  font-size: 32
   line-height-length: 17
   line-height: $base-line-height-length / $base-font-size
   
