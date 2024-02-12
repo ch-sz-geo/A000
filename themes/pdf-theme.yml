@@ -4,13 +4,13 @@ font:
   catalog:
     merge: false
     Trade Gothic:
-      normal: tradegothic-normal.ttf
-      bold: tradegothic-bold.ttf
-      light: tradegothic-light.ttf
+      normal: fonts/tradegothic-normal.ttf
+      bold: fonts/tradegothic-bold.ttf
+      light: fonts/tradegothic-light.ttf
 
 base:
   font-color: #0000ff
-  font-family: Times-Roman
-  font-size: 12
+  font-family: Trade Gothic
+  font-size: 20
   line-height-length: 17
   line-height: $base-line-height-length / $base-font-size
