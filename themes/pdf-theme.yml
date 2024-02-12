@@ -7,6 +7,7 @@ font:
       normal: tradegothic-normal.ttf
       bold: tradegothic-bold.ttf
       light: tradegothic-light.ttf
+      italic: tradegothic-Italic.ttf
 
 base:
   font-color: #0000ff
