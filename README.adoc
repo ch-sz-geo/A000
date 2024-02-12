@@ -25,7 +25,6 @@ ifdef::backend-pdf[]
 include::{includedir}/headerSZ.adoc[]
 endif::[]
 
-[.titleHeader]
 = Sondernutzungsplanung kommunal V1
 Amanda Wetter <amanda.wetter@sz.ch>
 // Versionierung
