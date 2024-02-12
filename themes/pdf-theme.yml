@@ -1,5 +1,5 @@
 extends: base
-heading:
+base:
   font-color: #009933
   font-family: Vendana
   font-size: 12
