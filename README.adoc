@@ -13,10 +13,10 @@ ifndef::env-github[:toc: left]
 :sectnumlevels: 5
 :sectlinks:
 :sectanchors:
-:includedir: docs
+:includedir: docs, themes
 :stylesheet: themes/stylesheet.css
 :pdf-themesdir: themes/
-:pdf-theme: pdf-theme.yml
+:pdf-theme: themes/pdf-theme.yml
 :pdf-fontsdir: themes/
 
 
