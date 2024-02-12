@@ -15,8 +15,8 @@ ifndef::env-github[:toc: left]
 :sectanchors:
 :includedir: docs
 :stylesheet: themes/stylesheet.css
-:pdf-themesdir: themes/
 :pdf-theme: themes/pdf-theme.yml
+:pdf-themesdir: themes/
 :pdf-fontsdir: themes/
 
 
