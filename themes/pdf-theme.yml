@@ -1,4 +1,4 @@
-extends: base
+extends: default
 
 font:
   catalog:
@@ -8,9 +8,11 @@ font:
       bold: tradegothic-bold.ttf
       light: tradegothic-light.ttf
 
-base:
-  font-color: #0033cc
+    role:
+        textblock:
+            font-family: Trade Gothic 
+            font-color: #0033cc
 
-heading:
-  font-style: bold
-  font-color: #0033cc
+        titleHeader:
+            font-style: bold
+            font-color: #0033cc
