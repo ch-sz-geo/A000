@@ -14,6 +14,15 @@ a {
 	color: black;
 }
 
+a :: before {
+	border: solid black;
+	border-width: 0 3 px 3px 0;
+	display: inline-block;
+	padding: 3px;
+	transform: rotate(-45deg);
+	-webkit-transform: rotate(-45deg);
+}
+
 h1 {
 	font-family: 'trade gothic';
 	font-weight: bold;
