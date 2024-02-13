@@ -9,7 +9,9 @@ body {
 }
 
 a {
-	text-decoration: none;
+	font-family: 'trade gothic';
+	font-size: 15pt;
+	color: black;
 }
 
 h1 {
