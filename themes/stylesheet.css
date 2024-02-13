@@ -17,6 +17,7 @@ h1 {
 	font-weight: bold;
 	font-size: 36pt;
 	line-height: 41pt;
+	color: #000000;
 }
 
 h2 {
@@ -41,8 +42,7 @@ h4 {
 }
 
 #toc {
-	background-color: #000000;
-	opacity: 0.4;
+	background-color: #d9d9d9;
 }
 
 #toctitle {
