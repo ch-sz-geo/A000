@@ -22,14 +22,29 @@ h1 {
 h2 {
 	font-family: 'trade gothic';
 	font-weight: bold;
-	font-size: 18pt;
+	color: #000000;
+	font-size: 24pt;
 }
 
 h3 {
 	font-family: 'trade gothic';
 	font-weight: bold;
 	color: #000000;
+	font-size: 18pt;
+}
+
+h4 {
+	font-family: 'trade gothic';
+	font-weight: bold;
+	color: #000000;
 	font-size: 15pt;
+}
+
+#toctitle {
+	font-family: 'trade gothic';
+	font-weight: bold;
+	color: #000000;
+	font-size: 24pt;
 }
 
 #subtitle-header {
