@@ -13,7 +13,10 @@ a {
 }
 
 h1 {
-	margin: 0;
+	font-family: 'trade gothic';
+	font-weight: bold;
+	font-size: 36pt;
+	line-height: 41pt;
 }
 
 #subtitle-header {
