@@ -19,6 +19,19 @@ h1 {
 	line-height: 41pt;
 }
 
+h2 {
+	font-family: 'trade gothic';
+	font-weight: bold;
+	font-size: 18pt;
+}
+
+h3 {
+	font-family: 'trade gothic';
+	font-weight: bold;
+	color: #000000;
+	font-size: 15pt;
+}
+
 #subtitle-header {
 	font-size: x-large;
 	padding: .6em;
@@ -56,12 +69,4 @@ td, th {
 th {
 	background-color: #f9f9f9;
 	text-align: left;
-}
-
-#amt-title {
-	font-size: medium;
-}
-
-.untertitel {
-	font-size: xx-large;
 }
