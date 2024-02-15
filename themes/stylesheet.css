@@ -12,9 +12,10 @@ a {
 	font-family: 'trade gothic';
 	font-size: 12pt;
 	color: black;
+	cursor: pointer;
 }
 
-a :: before {
+a ::before {
 	border: solid black;
 	border-width: 0 3 px 3px 0;
 	display: inline-block;
