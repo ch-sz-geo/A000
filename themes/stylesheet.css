@@ -112,5 +112,6 @@ th {
 }
 
 li {
-	border-y: 3pt solid black
+	border-top: 3pt solid black;
+	border-bottom: 3pt solid black;
 }
