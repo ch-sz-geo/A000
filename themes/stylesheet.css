@@ -111,6 +111,6 @@ th {
 	text-align: left;
 }
 
-ul {
-	border: 3pt solid black
+li {
+	border-y: 3pt solid black
 }
