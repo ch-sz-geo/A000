@@ -28,10 +28,9 @@ ifndef::env-github[]
 image:{includedir}/img/logo_kt_sz_rgb.jpg[]
 endif::[]
 
-[.header-title]
-= Sondernutzungsplanung kommunal V1
-[.subtitle]#A202# 
-[.subtitle]#Modelldokumentation# 
+[.header-title]#= Sondernutzungsplanung kommunal V1#
+[.subtitle]#A202# +
+[.subtitle]#Modelldokumentation# +
 Amanda Wetter <amanda.wetter@sz.ch>
 // Versionierung
 :revdate: {docdate}
