@@ -23,7 +23,15 @@ ifdef::backend-pdf[]
 include::{includedir}/headerSZ.adoc[]
 endif::[]
 
+ifndef::env-github[]
+[.img-logo]
+image:{includedir}/img/logo_kt_sz_rgb.jpg[]
+endif::[]
+
+[.header-title]
 = Sondernutzungsplanung kommunal V1
+[.subtitle]#A202# 
+[.subtitle]#Modelldokumentation# 
 Amanda Wetter <amanda.wetter@sz.ch>
 // Versionierung
 :revdate: {docdate}
@@ -31,13 +39,8 @@ Amanda Wetter <amanda.wetter@sz.ch>
 // Pdf output
 :title-page:
 
-ifndef::env-github[]
-[.img-logo]
-image:{includedir}/img/logo_kt_sz_rgb.jpg[]
-endif::[]
 
-[.untertitel]*A202* + 
-[.untertitel]*Modelldokumentation* 
+
 
 // Die Verwiese auf die Inhalte der Dokumentation sollen im README auf Github nicht angezeigt werden.
 ifndef::env-github[]

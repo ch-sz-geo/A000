@@ -24,11 +24,19 @@ a ::after {
 	-webkit-transform: rotate(-45deg);
 }
 
-h1 {
+h1 .header-title {
 	font-family: 'trade gothic';
 	font-weight: bold;
 	font-size: 36pt;
 	line-height: 41pt;
+	color: #000000;
+}
+
+.subtitle {
+	font-family: 'trade gothic';
+	font-weight: bold;
+	font-size: 24pt;
+	line-height: 20pt;
 	color: #000000;
 }
 
