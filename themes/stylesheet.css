@@ -41,6 +41,8 @@ h1 .header-title {
 }
 
 .img-logo {
+	width: 100%;
+	background-color: gray;
 	position: absolute; 
 	right: 24px;
 	top: 24px;
