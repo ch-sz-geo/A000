@@ -23,10 +23,6 @@ include::{includedir}/headerSZ.adoc[]
 endif::[]
 
 = Sondernutzungsplanung kommunal V1
-ifndef::env-github[]
-[.img-logo]
-image:{includedir}/img/logo_kt_sz_rgb.jpg[]
-endif::[]
 [.subtitle]#A202# +
 [.subtitle]#Modelldokumentation# +
 Amanda Wetter <amanda.wetter@sz.ch>
@@ -37,7 +33,10 @@ Amanda Wetter <amanda.wetter@sz.ch>
 :title-page:
 
 
-
+ifndef::env-github[]
+[.img-logo]
+image:{includedir}/img/logo_kt_sz_rgb.jpg[]
+endif::[]
 
 // Die Verwiese auf die Inhalte der Dokumentation sollen im README auf Github nicht angezeigt werden.
 ifndef::env-github[]
