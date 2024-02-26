@@ -33,7 +33,7 @@ h1 {
 }
 
 .img-logo {
-	position: static; 
+	position: absolute; 
 	right: 24px;
 	top: 24px;
 }
