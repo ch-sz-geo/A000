@@ -32,6 +32,11 @@ h1 {
 	color: #000000;
 }
 
+#header {
+	content: '../docs/img/logo_kt_sz.JPG';
+	display: right; 
+}
+
 h2 {
 	font-family: 'trade gothic';
 	font-weight: bold;
