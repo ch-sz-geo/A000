@@ -32,8 +32,7 @@ h1 {
 	color: #000000;
 }
 
-#header {
-	content: '../docs/img/logo_kt_sz.JPG';
+#img-logo {
 	display: right; 
 }
 

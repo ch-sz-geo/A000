@@ -22,6 +22,9 @@ ifdef::backend-pdf[]
 include::{includedir}/headerSZ.adoc[]
 endif::[]
 
+[#img-logo]
+image:{includedir}/img/logo_kt_sz.JPG[]
+
 = Sondernutzungsplanung kommunal V1
 Amanda Wetter <amanda.wetter@sz.ch>
 // Versionierung
