@@ -15,7 +15,7 @@ li > a {
 	cursor: pointer;
 }
 
-li > a:hover {
+a ~ li:hover {
 	background-color: #D9D9D9;
 }
 
@@ -57,7 +57,7 @@ h2 {
 	font-size: 24pt;
 }
 
-h3 > a {
+a ~ h3 {
 	font-family: 'trade gothic';
 	font-weight: bold;
 	color: #000000;
