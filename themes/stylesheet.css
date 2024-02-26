@@ -32,8 +32,10 @@ h1 {
 	color: #000000;
 }
 
-#img-logo {
-	display: right; 
+.img-logo {
+	position: fixed; 
+	right: 100px;
+	top: 100px;
 }
 
 h2 {

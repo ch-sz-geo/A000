@@ -6,6 +6,7 @@ ifndef::env-github[:toc: left]
 :table-caption: Tabelle
 :note-caption: Hinweis
 // zum Generieren eines PDF aus VS Code (HTML muss mit eingebetteten Bildern generiert werden, damit daraus ein korrektes PDF erstellt werden kann)
+:doctype: book
 :data-uri:
 :source-highlighter: highlight.js
 :sectnums:
@@ -22,7 +23,7 @@ ifdef::backend-pdf[]
 include::{includedir}/headerSZ.adoc[]
 endif::[]
 
-[#img-logo]
+[.img-logo]
 image:{includedir}/img/logo_kt_sz.JPG[]
 
 = Sondernutzungsplanung kommunal V1
