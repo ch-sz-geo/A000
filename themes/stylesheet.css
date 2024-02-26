@@ -11,8 +11,12 @@ body {
 li > a {
 	font-family: 'trade gothic';
 	font-size: 12pt;
-	color: yellow;
+	color: black;
 	cursor: pointer;
+}
+
+li > a:hover {
+	background-color: #D9D9D9;
 }
 
 a ::after {
@@ -53,7 +57,7 @@ h2 {
 	font-size: 24pt;
 }
 
-h3 {
+h3 > a {
 	font-family: 'trade gothic';
 	font-weight: bold;
 	color: #000000;
