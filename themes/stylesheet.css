@@ -8,10 +8,10 @@ body {
 	margin: 0;
 }
 
-a {
+li > a {
 	font-family: 'trade gothic';
 	font-size: 12pt;
-	color: black;
+	color: yellow;
 	cursor: pointer;
 }
 
@@ -41,9 +41,9 @@ h1 .header-title {
 }
 
 .img-logo {
-	position: absolute; 
-	right: 24px;
-	top: 24px;
+	position: relative; 
+	right: -24px;
+	top: -24px;
 }
 
 h2 {
