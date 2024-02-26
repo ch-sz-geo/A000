@@ -33,9 +33,9 @@ h1 {
 }
 
 .img-logo {
-	position: fixed; 
-	right: 100px;
-	top: 100px;
+	position: static; 
+	right: 24px;
+	top: 24px;
 }
 
 h2 {
