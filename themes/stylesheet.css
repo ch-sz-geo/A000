@@ -19,12 +19,12 @@ li a {
 	cursor: pointer;
 }
 
-li:hover {
+li a:hover {
 	background-color: #D9D9D9;
 	text-indent: initial;
 }
 
-a ::after {
+a:after {
 	border: solid black;
 	border-width: 0 3 px 3px 0;
 	display: inline-block;
@@ -49,9 +49,9 @@ h1 .header-title {
 	color: #000000;
 }
 
-.img-logo {
+img .img-logo {
 	position: relative; 
-	right: -40px;
+	left: calc(100%-200px);
 	top: -128px;
 }
 
