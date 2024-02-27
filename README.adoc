@@ -23,8 +23,6 @@ include::{includedir}/headerSZ.adoc[]
 endif::[]
 
 = Sondernutzungsplanung kommunal V1
-[.subtitle]#A202# +
-[.subtitle]#Modelldokumentation# +
 Amanda Wetter <amanda.wetter@sz.ch>
 // Versionierung
 :revdate: {docdate}
@@ -32,6 +30,8 @@ Amanda Wetter <amanda.wetter@sz.ch>
 // Pdf output
 :title-page:
 
+[.subtitle]#A202# +
+[.subtitle]#Modelldokumentation# +
 
 ifndef::env-github[]
 [.img-logo]
