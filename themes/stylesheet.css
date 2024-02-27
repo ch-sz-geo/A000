@@ -51,7 +51,7 @@ h1 .header-title {
 
 img[alt="logo kt sz rgb"] {
 	position: relative; 
-	left: calc(100%-200px);
+	right: calc(100%-200px);
 	top: -128px;
 }
 
