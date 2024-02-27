@@ -53,6 +53,7 @@ img .img-logo {
 	position: relative; 
 	left: calc(100%-200px);
 	top: -128px;
+	border: 4px solid purple;
 }
 
 h2 a {
