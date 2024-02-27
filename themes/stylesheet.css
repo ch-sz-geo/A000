@@ -45,7 +45,7 @@ h1 .header-title {
 }
 
 .img-logo {
-	position: absolute; 
+	position: fixed; 
 	right: 40px;
 	top: 40px;
 }
