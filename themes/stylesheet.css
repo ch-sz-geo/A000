@@ -17,11 +17,12 @@ ul.sectlevel2, ul.sectlevel3, ul.sectlevel1 {
 	list-style: none;
 	padding-left: 0px !important;
 	border-bottom: 1px solid #666666;
+	border-top: 1px solid #666666;
 }
 
 ul.sectlevel0 > li > a {
 	visibility: hidden;
-	heigth: 0px;
+	height: 0px;
 }
 
 li a {
@@ -38,6 +39,7 @@ li a:hover {
 	display: flex;
 	flex-grow: 100;
 	padding: 2px;
+	color: #000000;
 }
 
 /*a:after {
