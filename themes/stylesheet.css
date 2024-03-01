@@ -40,6 +40,7 @@ li a:hover {
 	flex-grow: 100;
 	padding: 2px;
 	color: #000000;
+	margin-top: 2px;
 }
 
 /*a:after {
@@ -72,7 +73,7 @@ img[alt="logo kt sz rgb"] {
 	left: calc(100% - 200px);
 }
 
-h2 a.link {
+h2, h2 a.link {
 	font-family: 'trade gothic';
 	font-weight: bold;
 	color: #000000;
@@ -103,14 +104,13 @@ h4, h4 a.link{
 	color: #000000;
 	font-size: 24pt;
 	line-height: 14pt;
-	border-bottom: 3pt, solid, black;
 }
 
-#sectlevel1 {
+/*#sectlevel1 {
 	font-family: 'trade gothic';
 	font-weight: bold;
 	color: #000000;
-}
+}*/
 
 #subtitle-header {
 	font-size: x-large;
