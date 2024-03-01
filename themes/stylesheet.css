@@ -17,12 +17,11 @@ ul.sectlevel2, ul.sectlevel3 {
 	background-color: plum;
 	list-style: none;
 	padding-left: 0px !important;
+	border-bottom: 1px solid #666666;
 }
 
-#toctitle li + a {
-	background-color: pink;
-	/*visibility: hidden;*/
-	color: red;
+ul.sectlevel0 > li {
+	visibility: hidden;
 }
 
 li a {
