@@ -14,6 +14,7 @@ header {
 
 ul.sectlevel2, ul.sectlevel3 {
 	padding: 0px;
+	background-color: plum;
 }
 
 li a {
@@ -41,6 +42,7 @@ a:after {
 
 h1 {
 	background-color: plum;
+	color: black;
 }
 
 h1 a {

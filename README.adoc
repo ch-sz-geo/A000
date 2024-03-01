@@ -30,7 +30,7 @@ endif::[]
 
 = Sondernutzungsplanung kommunal V1
 [.subtitle]#A202# 
-[.subtitle]#Modelldokumentation#
+[.subtitle]#Modelldokumentation +#
 Amanda Wetter <amanda.wetter@sz.ch>
 // Versionierung
 :revdate: {docdate}
