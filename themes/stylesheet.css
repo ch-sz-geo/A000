@@ -55,7 +55,7 @@ img[alt="logo kt sz rgb"] {
 	top: -200px;
 }
 
-h2 a {
+a.link {
 	font-family: 'trade gothic';
 	font-weight: bold;
 	color: #000000;
