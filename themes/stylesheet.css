@@ -16,10 +16,10 @@ ul.sectlevel2, ul.sectlevel3 {
 	margin-left: 0px; 
 	background-color: plum;
 	list-style: none;
-	padding-left: 0px;
+	padding: 0px;
 }
 
-#toctitle + li + a {
+#toctitle li + a {
 	background-color: pink;
 	/*visibility: hidden;*/
 	color: red;
