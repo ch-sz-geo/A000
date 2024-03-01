@@ -1,6 +1,9 @@
 [discrete]
 === Impressum
 
+.Erstellung
+[%collapsible]
+====
 [cols="1, 3"]
 |=======
 h|Erstelldatum h| 24.01.2024
@@ -14,6 +17,7 @@ Laura Lacher (LL), ARE
 - [ ] bereit für Vernehmlassung
 - [x] gültig
 |=======
+====
 
 [discrete]
 ==== Historie
