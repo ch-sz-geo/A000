@@ -42,14 +42,6 @@ a:after {
 	-webkit-transform: rotate(-45deg);
 }
 
-h1 {
-	background-color: plum;
-}
-
-h1 a {
-	color: blue;
-}
-
 h1 a.link {
 	font-family: 'trade gothic';
 	font-weight: bold;
