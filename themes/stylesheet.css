@@ -33,7 +33,7 @@ a:after {
 	-webkit-transform: rotate(-45deg);
 }
 
-a.link ~ h1{
+h1, h1.sect0 a.link {
 	font-family: 'trade gothic';
 	font-weight: bold;
 	font-size: 36pt;
@@ -136,4 +136,6 @@ th {
 
 .paragraph.img-logo {
 	background-color: plum;
+	width: 100%;
+	border-bottom: 2px solid #666666;
 }
