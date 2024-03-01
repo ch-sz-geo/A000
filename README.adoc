@@ -29,9 +29,9 @@ image:{includedir}/img/logo_kt_sz_rgb.jpg[]
 endif::[]
 
 = Sondernutzungsplanung kommunal V1
-Amanda Wetter <amanda.wetter@sz.ch>
 [.subtitle]#A202# 
 [.subtitle]#Modelldokumentation#
+Amanda Wetter <amanda.wetter@sz.ch>
 // Versionierung
 :revdate: {docdate}
 :revnumber: 0.1.3
