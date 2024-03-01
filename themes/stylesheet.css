@@ -23,6 +23,7 @@ li a {
 	font-size: 12pt;
 	color: black;
 	cursor: pointer;
+	margin: 0px;
 	/*text-indent: inherit;*/
 }
 
