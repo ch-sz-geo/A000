@@ -33,7 +33,13 @@ a:after {
 	-webkit-transform: rotate(-45deg);
 }
 
-
+a.link ~ h1{
+	font-family: 'trade gothic';
+	font-weight: bold;
+	font-size: 36pt;
+	line-height: 41pt;
+	color: #000000;
+}
 
 .subtitle {
 	font-family: 'trade gothic';
@@ -130,12 +136,4 @@ th {
 
 .paragraph.img-logo {
 	background-color: plum;
-}
-
-h1 a.link {
-	font-family: 'trade gothic';
-	font-weight: bold;
-	font-size: 36pt;
-	line-height: 41pt;
-	color: #000000;
 }
