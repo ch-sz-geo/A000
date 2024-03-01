@@ -52,9 +52,9 @@ h1 a {
 h1 a.link {
 	font-family: 'trade gothic';
 	font-weight: bold;
-	font-size: 100pt;
+	font-size: 36pt;
 	line-height: 41pt;
-	/*color: #000000;*/
+	color: #000000 !important;
 }
 
 .subtitle {
