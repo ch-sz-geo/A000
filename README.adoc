@@ -1,4 +1,4 @@
-[showtitle!]
+[notitle]
 = Sondernutzungsplanung kommunal V1
 :doctype: book
 
