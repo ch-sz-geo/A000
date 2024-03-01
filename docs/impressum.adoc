@@ -26,6 +26,7 @@ Laura Lacher (LL), ARE
 h| Version h| Datum h| Autor h| Bemerkung
 | 1.0 | 23.08.2023 | kep | erster Entwurf und Veröffentlichung
 | 1.1 | 28.08.2023 | kep | Abschluss und Veröffentlichung
+| 1.2 | 01.03.2024 | aw | Digitalisierung
 |=======
 
 [discrete]
