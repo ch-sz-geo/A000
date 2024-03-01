@@ -33,7 +33,8 @@ a:after {
 	-webkit-transform: rotate(-45deg);
 }
 
-h1, h1.sect0 a.link {
+h1 {
+	/*, h1.sect0 a.link*/
 	font-family: 'trade gothic';
 	font-weight: bold;
 	font-size: 36pt;
@@ -52,7 +53,8 @@ h1, h1.sect0 a.link {
 img[alt="logo kt sz rgb"] {
 	position: relative; 
 	left: calc(100% - 200px);
-	top: -200px;
+	/*top: -200px;*/
+	top: 200px;
 }
 
 h2 a.link {
@@ -135,7 +137,6 @@ th {
 }
 
 .paragraph.img-logo {
-	background-color: plum;
-	width: 100%;
+	width: 150%;
 	border-bottom: 2px solid #666666;
 }
