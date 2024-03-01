@@ -13,13 +13,14 @@ header {
 }
 
 ul.sectlevel2, ul.sectlevel3 {
-	margin: 0px; 
+	margin: 0px !important; 
 	background-color: plum;
 	list-style: none;
 }
 
 li + a {
 	background-color: blue;
+	visibility: hidden;
 }
 
 li a {
