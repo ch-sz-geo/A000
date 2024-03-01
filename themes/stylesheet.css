@@ -13,13 +13,13 @@ header {
 }
 
 ul.sectlevel2, ul.sectlevel3 {
-	margin: 0px !important; 
+	margin-left: 0px; 
 	background-color: plum;
 	list-style: none;
 }
 
 li + a {
-	background-color: blue;
+	background-color: pink;
 	visibility: hidden;
 }
 
@@ -39,14 +39,14 @@ li a:hover {
 	padding: 2px;
 }
 
-a:after {
+/*a:after {
 	border: solid black;
 	border-width: 0 3 px 3px 0;
 	display: inline-block;
 	padding: 3px;
 	transform: rotate(-45deg);
 	-webkit-transform: rotate(-45deg);
-}
+}*/
 
 h1 a.link {
 	font-family: 'trade gothic';
