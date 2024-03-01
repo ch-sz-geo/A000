@@ -12,6 +12,11 @@ header {
 	height: 128px;
 }
 
+ul{
+	list-style: none;
+	padding-left: 0;
+}
+
 li a {
 	font-family: 'trade gothic';
 	font-size: 12pt;
@@ -38,6 +43,10 @@ a:after {
 
 h1 {
 	background-color: plum;
+}
+
+h1 > a {
+	text-color: blue;
 }
 
 h1 > a.link {
