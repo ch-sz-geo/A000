@@ -43,6 +43,7 @@ h| Version h| Datum h| Koreferent h| Prüfstelle
 
 .Referenzierte Dokumente
 [%collapsible]
+====
 [cols="10%, 70%, 10%, 10%"]
 |=======
 h| Nr. h| Titel h| Autor(en) h| Version
@@ -51,6 +52,7 @@ h| Nr. h| Titel h| Autor(en) h| Version
 | [03] | Minimale Geodatenmodelle Bereich Nutzungsplanung; Modelldokumentation | ARE | 1.2, 22.09.2021
 | [04] | IRAP-Empfehlung 6. Farben und Signaturen. HSR Hochschule für Technik Rapperswil (heute: OST – Ostschweizer Fachhochschule) | HSR Rapperswil (heute: OST) | 17.12.2012
 |=======
+====
 
 ifdef::backend-pdf[]
 <<<
