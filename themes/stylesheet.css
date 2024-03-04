@@ -24,7 +24,7 @@ ul.sectlevel2, ul.sectlevel3, ul.sectlevel1 {
 	
 }
 
-ul.sectlevel2 li, ul.sectlevel3 li, ul.sectlevel1 li {
+ul.sectlevel1 > li, ul.sectlevel2 > li, ul.sectlevel3 > li {
 	border-bottom: 1px solid #bdbdbd;
 	border-collapse: collapse;
 }
