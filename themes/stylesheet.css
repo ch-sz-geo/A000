@@ -24,10 +24,9 @@ ul.sectlevel2, ul.sectlevel3, ul.sectlevel1 {
 	
 }
 
-#toc > ul > li {
-	border-bottom: 1px solid #666666;
-	/*border-top: 1px solid #666666;*/
-	border-collapse: collapse;
+#toc ul > li {
+	border-bottom: 1px solid #bdbdbd;
+	/*border-collapse: collapse;*/
 }
 
 ul.sectlevel0 > li > a {
@@ -52,15 +51,6 @@ li a:hover {
 	color: #000000;
 	margin-top: 2px;
 }
-
-/*a:after {
-	border: solid black;
-	border-width: 0 3 px 3px 0;
-	display: inline-block;
-	padding: 3px;
-	transform: rotate(-45deg);
-	-webkit-transform: rotate(-45deg);
-}*/
 
 h1 a.link {
 	font-family: 'trade gothic';
@@ -115,12 +105,6 @@ h4, h4 a.link{
 	font-size: 24pt;
 	line-height: 14pt;
 }
-
-/*#sectlevel1 {
-	font-family: 'trade gothic';
-	font-weight: bold;
-	color: #000000;
-}*/
 
 #subtitle-header {
 	font-size: x-large;
