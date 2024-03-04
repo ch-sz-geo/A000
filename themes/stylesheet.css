@@ -26,7 +26,7 @@ ul.sectlevel2, ul.sectlevel3, ul.sectlevel1 {
 
 ul li {
 	border-bottom: 1px solid #666666;
-	border-top: 1px solid #666666;
+	/*border-top: 1px solid #666666;*/
 	border-collapse: collapse;
 }
 
