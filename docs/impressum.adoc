@@ -41,8 +41,8 @@ h| Version h| Datum h| Koreferent h| Prüfstelle
 |=======
 ====
 
-[discrete]
-==== Referenzierte Dokumente
+.Referenzierte Dokumente
+[%collapsible]
 [cols="10%, 70%, 10%, 10%"]
 |=======
 h| Nr. h| Titel h| Autor(en) h| Version
