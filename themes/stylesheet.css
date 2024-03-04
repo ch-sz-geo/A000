@@ -23,11 +23,6 @@ ul.sectlevel2, ul.sectlevel3, ul.sectlevel1 {
 	padding-left: 0px !important;
 }
 
-/*ul.sectlevel1 > li, ul.sectlevel2 > li, ul.sectlevel3 > li {
-	border-bottom: 1px solid #bdbdbd;
-	border-collapse: collapse;
-}*/
-
 ul.sectlevel0 > li > a {
 	visibility: hidden;
 	height: 0px;
@@ -51,6 +46,11 @@ li a:hover {
 	padding: 2px;
 	color: #000000;
 	margin-top: 2px;
+}
+
+ul.sectlevel1 li, ul.sectlevel2 li, ul.sectlevel3 li {
+	border-bottom: 1px solid #bdbdbd;
+	border-collapse: collapse;
 }
 
 h1 a.link {
