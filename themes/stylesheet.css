@@ -21,7 +21,8 @@ ul.sectlevel2, ul.sectlevel3, ul.sectlevel1 {
 	margin-left: 0px; 
 	list-style: none;
 	padding-left: 0px !important;
-	
+	border-bottom: 1px solid #bdbdbd;
+	border-collapse: collapse;
 }
 
 ul.sectlevel1 > li, ul.sectlevel2 > li, ul.sectlevel3 > li {
