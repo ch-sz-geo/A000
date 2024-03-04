@@ -12,14 +12,18 @@ header {
 	height: 128px;
 }
 
-/*ul.sectlevel2, ul.sectlevel3, ul.sectlevel1,*/
-ul.sectlevel1 li, ul.sectlevel2 li, ul.sectlevel3 li {
-	font-family: 'trade gothic';
+summary.title {
+	font-size: 15pt;
+	font-weight: bold;
+}
+
+ul.sectlevel2, ul.sectlevel3, ul.sectlevel1, ul.sectlevel1 li, ul.sectlevel2 li, ul.sectlevel3 li {
 	margin-left: 0px; 
 	list-style: none;
 	padding-left: 0px !important;
 	border-bottom: 1px solid #666666;
 	border-top: 1px solid #666666;
+	border-collapse: collapse;
 }
 
 ul.sectlevel0 > li > a {
