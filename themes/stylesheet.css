@@ -35,8 +35,6 @@ li a {
 	cursor: pointer;
 	margin: 0px;
 	text-indent: initial;
-	border-bottom: 1px solid #bdbdbd;
-	border-collapse: collapse;
 }
 
 li a:hover {
@@ -48,7 +46,7 @@ li a:hover {
 	margin-top: 2px;
 }
 
-ul.sectlevel1 li, ul.sectlevel2 li, ul.sectlevel3 li {
+#toc li /*ul.sectlevel1 li, ul.sectlevel2 li, ul.sectlevel3 li*/ {
 	border-bottom: 1px solid #bdbdbd;
 	border-collapse: collapse;
 }

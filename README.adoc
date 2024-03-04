@@ -1,6 +1,6 @@
 ifndef::env-github[:toc: left]
 :toc-title: Inhalt
-:toclevels: 5
+:toclevels: 3
 :figure-caption: Abbildung
 :example-caption!:
 :table-caption: Tabelle
@@ -42,9 +42,8 @@ endif::[]
 
 // Erklärung und Link auf Website
 ifdef::env-github[]
-In diesem Repository ist der Versuch gestartet worden, eine Page aus den Files zu generieren.
 
-Die aktuelle Website ist unter https://ch-sz-geo.github.io/A000/ erreichbar.
+Das aktuelle Datenmodell ist unter https://ch-sz-geo.github.io/A000/ erreichbar.
 
 Hier erhalte ich das Pdf https://raw.github.com/ch-sz-geo.github.io/A000/gh-pages/ebook.pdf
 endif::[]
