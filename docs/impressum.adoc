@@ -1,7 +1,7 @@
 [discrete]
 === Impressum
 
-=== .Erstellung
+.Erstellung
 [%collapsible]
 ====
 [cols="1, 3"]
