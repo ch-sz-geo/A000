@@ -1,9 +1,7 @@
 == Modellbeschreibung
 
-Gestaltungspläne gemäss Art. 24 PBG sind Teil der Nutzungsplanung und damit wie der Zonenplan
-und das Baureglement eigentümerverbindlich. Der Gestaltungsplan verfeinert die Vorgaben der
-(Rahmen-)Nutzungsplanung mit zusätzlichen Aussagen über die Nutzung, Erschliessung, Bebauung
-und Ausstattung. +
+Gestaltungspläne gemäss Art. 24 PBG sind Teil der Nutzungsplanung und damit wie der Zonenplan und das Baureglement eigentümerverbindlich. Der Gestaltungsplan verfeinert die Vorgaben der
+(Rahmen-)Nutzungsplanung mit zusätzlichen Aussagen über die Nutzung, Erschliessung, Bebauung und Ausstattung. +
 
 Die Sonderbestimmungen der im ÖREB-Kataster dargestellten Gestaltungspläne werden in der Regel
 auf einem oder mehreren (Detail-)Plänen sowie in Vorschriften festgehalten. Im Gegensatz zum
